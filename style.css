@@ -28,9 +28,7 @@ div{/* selecciona el div y lo pinta */
 	margin: 20px 20px;
 	background: white;
 }
-#desarrollo{/* selecciona el id y lo pinta */
-	background-color: orange;
-	}
+
 
 h1{/* selecciona el header o titulo 1 y lo pinta */
 	background-color: pink;
